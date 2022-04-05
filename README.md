@@ -1,6 +1,6 @@
 # CRUD-Operation ( details page submission with crud)
 ## Output:
-![curd-Op](https://user-images.githubusercontent.com/67409313/161131924-823cd8e2-d13a-438a-98e8-42495d4c07f9.PNG)
+![277701230_491242579367041_5858064599486087016_n](https://user-images.githubusercontent.com/67579263/161688528-3a7acd01-0191-4d49-aff0-54642fd33b99.jpg)
 
 
 ## Code: 
